@@ -80,6 +80,8 @@
 #tres {
     border: lightsalmon 5px solid;
     margin: 20px 1px 20px 1px;
+    display: flex;
+    flex-direction: row;
 }
 #tres-contact {
     background-color: lightcoral;
