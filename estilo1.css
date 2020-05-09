@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#div1 {
+    width: 500px;
+    background-color: yellow;
+}
+.list {
+    font-size: 25px;
+    color: red;
+}
+#cat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 300px;
+}
+a:visited {
+    color: green;
+}

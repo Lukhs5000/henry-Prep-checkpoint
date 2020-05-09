@@ -1,0 +1,110 @@
+#div-negro {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-top: 1px black solid;
+    border-bottom: 30px black solid;
+    border-left: 1px black solid;
+    border-right: 20px black solid;
+    padding: 10px 5px 10px 5px;
+    width: 400px;
+    height: 300px;
+    background-color: black;  
+}
+#uno {
+    border: lightsalmon 5px solid;
+    display: flex;
+    flex-direction: row;
+    margin: 20px 1px 20px 1px;
+}
+#uno-contact {
+    background-color: lightcoral;
+    color: white;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#uno-careers {
+    background-color: lightskyblue;
+    color: white;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#uno-about {
+    background-color: lightgreen;
+    color: white;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 14px; 
+}
+#dos{
+    border: lightsalmon 5px solid;
+    margin: 20px 1px 20px 1px;
+}
+#dos-contact {
+    background-color: lightcoral;
+    color: white;
+    height: 60px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#dos-careers {
+    background-color: lightskyblue;
+    color: white;
+    height: 60px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#dos-about {
+    background-color: lightgreen;
+    color: white;
+    height: 60px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+#tres {
+    border: lightsalmon 5px solid;
+    margin: 20px 1px 20px 1px;
+}
+#tres-contact {
+    background-color: lightcoral;
+    color: white;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#tres-careers {
+    background-color: lightskyblue;
+    color: white;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#tres-about {
+    background-color: lightgreen;
+    color: white;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
